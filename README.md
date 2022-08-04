@@ -7,7 +7,7 @@
 - I possess leadership skills as part of my skill set. 
 - I am a team player with strong statistical analysis, research skills, programming skills, and ability to clearly communicate complex and industry-specific concepts.
 - 💞️ I’m looking to collaborate on github for any programming project or competition
-- 📫 How to reach me, kindly send message via the following email: mutobvuronewa@gmail.co or call : 0785456471
+- 📫 How to reach me, kindly send message via the following email: mutobvuronewa@gmail.co or call : 0795456471
 
 <!---
 Ronewa12/Ronewa12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
